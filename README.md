@@ -8,11 +8,13 @@ Este projeto é um desafio proposto pela Oracle em parceria com a Alura, com o o
 
 No projeto, foram utilizadas as seguintes tecnologias e ferramentas:
 
-- Linguagem de programação: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- Testes e requisições de API: ![Postman](![Postman](https://img.icons8.com/fluency/48/000000/postman-api.png)
-) **Postman**
-- IDE para desenvolvimento: ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**
+- Linguagem de programação: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**  
+- Testes e requisições de API: <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="38" height="38" alt="Postman" /> **Postman**  
+- IDE para desenvolvimento: ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**  
 - Controle de versão: ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
+
+
+
 
 ---
 
@@ -40,5 +42,5 @@ Se tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou enviar
 
 ---
 
-**Desenvolvido por [José Lucas Costa de Oliveira]**
+**Desenvolvido por José Lucas Costa de Oliveira**
 
