@@ -9,7 +9,8 @@ Este projeto é um desafio proposto pela Oracle em parceria com a Alura, com o o
 No projeto, foram utilizadas as seguintes tecnologias e ferramentas:
 
 - Linguagem de programação: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- Testes e requisições de API: ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) **Postman**
+- Testes e requisições de API: ![Postman](![Postman](https://img.icons8.com/fluency/48/000000/postman-api.png)
+) **Postman**
 - IDE para desenvolvimento: ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**
 - Controle de versão: ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
 
@@ -31,14 +32,13 @@ No projeto, foram utilizadas as seguintes tecnologias e ferramentas:
 ## 🔗 Links úteis
 
 - [Site para obter a chave da API](https://www.exchangerate-api.com)
-- [Curso de Java na Alura](https://www.alura.com.br)
 - [Documentação da ExchangeRate-API](https://www.exchangerate-api.com/docs)
 
 ---
 
-Se tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou enviar um pull request!
+Se tiver dúvidas ou sugestões, fique à vontade para abrir uma issue ou enviar um pull request 😉😉!
 
 ---
 
-**Desenvolvido por [Seu Nome]**
+**Desenvolvido por [José Lucas Costa de Oliveira]**
 
